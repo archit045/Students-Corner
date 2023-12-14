@@ -1,0 +1,48 @@
+nav {
+    background-color: #c53b3b;
+    color: white;
+    height: 50px;
+  }
+  #ul1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  #li1 {
+    margin: 10px;
+  }
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  #image{
+    height: 250px;
+    width: 18rem;
+  }
+  #image1{
+    height: 46px;
+    margin-top: 2px;
+    margin-left: 395px;
+  }
+  #detail1{
+    width: 18rem;
+  }
+  #Student{
+    margin-left: 70px;
+  }
+  #navstu{
+     margin-left: 5px;
+     color: black;
+  }
+  #contact{
+    margin-left: 475px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-top: 10px;
+  }

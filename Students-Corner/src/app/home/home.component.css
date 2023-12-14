@@ -1,0 +1,87 @@
+/* card-slider.component.css */
+.container1{
+ display: flex;
+}
+.container2{
+ display: flex;
+}
+.container3{
+ display: flex;
+}
+.container4{
+ display: flex;
+}
+.card {
+    width: 300px;
+    margin: 20px;
+  }
+  
+  .slider-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .slider-button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .slider-content {
+    display: flex;
+    transition: transform 0.3s ease;
+  }
+  
+  .slider-item {
+    width: 300px;
+    flex-shrink: 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f8f9fa;
+  }
+ .img{
+    height: 250px;
+    width: 250px;
+ }
+ .button{
+  background-color: #007bff;
+  color: #ffff;
+  margin: 5px;
+ }
+ nav {
+  background-color: #c53b3b;
+  color: white;
+  height: 50px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+li {
+  margin: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+#image1{
+  height: 46px;
+  margin-top: 2px;
+  margin-left: 395px;
+}
+#navstu{
+  margin-left: 5px;
+  color: black;
+  height: 10px;
+}
